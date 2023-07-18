@@ -42,7 +42,6 @@ The project will be evaluated based on the following criteria:
 - Completion: The project will be assessed based on how well it meets the requirements.
 - Quality: The project will be evaluated based on its quality, including coding style, organization, and ease of maintenance.
 - Use of programming concepts such as class, abstract, function, and others.
-- Testing: The project will be assessed based on the extent of its test coverage for features.
 
 ### Time Frame:
 The project should be completed within 3 days.
