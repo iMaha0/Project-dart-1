@@ -1,4 +1,4 @@
-Description:
+# Description:
 
 The "Library Project using Dart" is a software application developed to manage a library's book inventory and facilitate user interactions through a Command Line Interface (CLI). The project is implemented in the Dart programming language, providing a user-friendly and efficient experience for both library staff and patrons.
 
