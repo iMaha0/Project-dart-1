@@ -79,8 +79,5 @@ The project will be evaluated based on the following criteria:
 ## Resources
 
 - [Dart Tutorials](https://dart.dev/tutorials)
-- [Flutter Documentation](https://docs.flutter.dev/)
-- [Flutter Tutorial by GeeksforGeeks](https://www.geeksforgeeks.org/flutter-tutorial/)
 
 Good luck with the project, and feel free to ask any additional questions if needed!
-
