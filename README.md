@@ -51,7 +51,11 @@ The project must be written entirely in the Dart language and fully submitted th
 
 - **Language**: The project should be written in Dart language.
 
-- **GitHub Submission**: The project must be fully submitted through GitHub. Create a Fork from the exam’s GitHub repository, make frequent commits with descriptive messages, and create a Pull Request to the original repository containing your solution.
+- **GitHub Submission**:
+   - Create a Fork from the exam’s GitHub repository.
+   - Create a new branch with your name, i.e., Nawaf-Alshawan.
+   - Commit frequently with descriptive messages to show your progress.
+   - Finally, create a Pull Request to the exam’s original repository containing your solution.
 
 - **README.md File**: Include a README.md file with instructions on how to run and test the project. This file should provide a clear guide for users to understand how to interact with the CLI.
 
@@ -74,3 +78,4 @@ The project will be evaluated based on the following criteria:
 - [Flutter Tutorial by GeeksforGeeks](https://www.geeksforgeeks.org/flutter-tutorial/)
 
 Good luck with the project, and feel free to ask any additional questions if needed!
+
