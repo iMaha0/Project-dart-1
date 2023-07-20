@@ -1,58 +1,71 @@
 # Project #1 - Library Project using Dart
 
-## Congratulations!
-Congratulations on reaching the capstone project phase of the course! Over the next several weeks, you will be working on a series of four capstone projects that will allow you to apply your knowledge and skills to build real-world applications. Each capstone project will serve as a demonstration of your proficiency in Flutter Development and will provide an opportunity to refine your skills with every iteration. 
+Congratulations on reaching the capstone project phase! This project will assess your ability to develop a "Library Project using Dart" with a Command Line Interface (CLI) to manage a library's book inventory and user interactions. Below are the key requirements and evaluation criteria:
 
-## Description
 
-The "Library Project using Dart" is a software application developed to manage a library's book inventory and facilitate user interactions through a Command Line Interface (CLI). The project is implemented in the Dart programming language, providing a user-friendly and efficient experience for both library staff and patrons.
+## Description:
 
-## Rules & Guidelines
+The "Library Project using Dart" is an exciting software application designed to efficiently manage a library's book inventory and streamline user interactions through a Command Line Interface (CLI). This capstone project provides you, as a student, with an excellent opportunity to apply your knowledge and skills in Flutter Development, showcasing your proficiency in Dart programming.
 
-1. **Individual Work:** Each student is expected to work individually on their exam. Collaboration is not allowed, and each student should submit their unique work.
-2. **Version Control (Git):**
-   - Create a Fork from the exam’s GitHub repository.
-   - Create a new branch with your name, i.e., Nawaf-Alshawan.
-   - Commit frequently with descriptive messages to show your progress.
-   - Finally, create a Pull Request to the exam’s original repository containing your solution.
-3. **Academic Integrity:** Do not copy or reuse code from previous modules or external sources. The exam is a showcase of your learning progress.
-4. **Learning References:** You may refer to course materials and code examples as learning references, but implement your solutions independently.
-5. **Instructor Support:** The instructor will be available for general questions and guidance throughout the exam.
+The primary goal of the project is to develop a user-friendly and efficient CLI that caters to both library staff and patrons. With this CLI, users can effortlessly query books, view the number of available copies, add new books to the library, delete books from the inventory, make book purchases, and receive detailed invoices after each purchase. Additionally, the project demands an essential feature - updating the number of book copies after a purchase is made to maintain accurate inventory records.
 
-## Schedule & Deadlines
+To begin, you will create a new Dart project, ensuring that the project structure is appropriately organized for a clean and manageable codebase. As you progress, it is crucial to write code that is clear, well-organized, and scalable, adhering to standard coding conventions to enhance code readability. Demonstrating your comprehensive understanding of programming concepts and techniques is essential for a successful outcome.
 
-- **Project Start Date:** 27/7/2023 - 3:00 PM
-- **Project Submission Deadline:** 30/7/2023 – 11:59 PM
+Your CLI should allow users to search for books by title, author, or category, providing a straightforward and accessible way to retrieve information about the library's collection. Implementing a method to add new books to the library with the appropriate updates to the book count will further enhance the system's usability.
 
-## Minimum Requirements
+Managing the library's inventory also involves implementing a method to delete books, ensuring smooth handling of cases where a book to be deleted does not exist. Facilitating book purchases through the CLI is another critical aspect, requiring you to decrease the number of book copies according to the books purchased and generate an informative invoice for the user.
 
-Your task is to create a Library Project using Dart language. The project should have a CLI (Command Line Interface) that allows users to query books, view the number of available copies, add new books, delete books from the library, purchase books, and display an invoice after the purchase. After purchase, the number of book copies should be updated. 
+As an extra credit opportunity, you can implement features such as displaying all book categories in the library, returning a list of books belonging to a selected category. Additionally, providing a method to count the number of purchased books will further showcase your skills.
 
-- **Project Structure:** Create a new Dart project and organize its structure appropriately. 
-- **Query Books:** Develop a simple CLI user interface that allows users to query books and view the number of available copies. 
-- **Add New Book:** Provide a method to add a new book to the library while updating the number of book copies. 
-- **Delete Book:** Provide a method to delete a book from the library and update the book count. 
-- **Purchase:** Implement the purchase process and decrease the number of book copies according to the books purchased. 
-- **Invoice:** Display a detailed invoice after the purchase. 
-- **Editing Capability:** Add the ability to modify book data, such as title, author, and price. 
+The project must be written entirely in the Dart language and fully submitted through GitHub using version control (Git). Remember to create descriptive commits to showcase your progress and follow the provided guidelines for academic integrity.
 
-## Ideas for Extra Credit
 
-1. **Display all Book Categories:** Provide a method to display a list of all book categories in the library, and when selecting a category return a list of all books in this category.
-2.  **Count the number of purchased books:** Provide a method to count the number of all purchased books from the library. 
 
-## Delivery Requirements
+## Minimum Requirements:
 
-- The project should be written in Dart language.
-- The project must be fully submitted through GitHub.
-- The project should include a README.md file with instructions on how to run and test the project.
+1. **Project Structure**: Create a new Dart project and organize its structure appropriately. Set up the necessary folders, files, and ensure a clean and organized project layout.
 
-## Evaluation:
+2. **Clean Code**: Write clear, well-organized, and scalable code. Use meaningful variable and function names, following standard coding conventions to improve code readability. Well-structured and easily maintainable code is essential.
+
+3. **Applying Concepts**: Demonstrate a comprehensive understanding of programming concepts and techniques. Implement the CLI features with efficiency and correctness.
+
+4. **Query Books**: Develop a simple CLI user interface that allows users to query books and view the number of available copies. Users should be able to search for books by title, author, or category.
+
+5. **Add New Book**: Provide a method to add a new book to the library and update the number of book copies accordingly. Ensure proper error handling for invalid inputs.
+
+6. **Delete Book**: Implement a method to delete a book from the library and update the book count. Handle cases where the book to be deleted does not exist.
+
+7. **Purchase**: Implement the purchase process, allowing users to buy books from the library. Ensure that the number of book copies is decreased according to the books purchased.
+
+8. **Invoice**: Display a detailed invoice after the purchase, showing the books purchased, their prices, and the total cost.
+
+9. **Editing Capability**: Add the ability to modify book data, such as title, author, and price. Users should be able to update book information easily.
+
+## Ideas for Extra Credit:
+
+- **Display all Book Categories**: Provide a method to display a list of all book categories in the library. When a category is selected, return a list of all books belonging to that category.
+
+- **Count the Number of Purchased Books**: Implement a method to count the number of all purchased books from the library.
+
+## Delivery Requirements:
+
+- **Language**: The project should be written in Dart language.
+
+- **GitHub Submission**: The project must be fully submitted through GitHub. Create a Fork from the exam’s GitHub repository, make frequent commits with descriptive messages, and create a Pull Request to the original repository containing your solution.
+
+- **README.md File**: Include a README.md file with instructions on how to run and test the project. This file should provide a clear guide for users to understand how to interact with the CLI.
+
+- **Screenshots**: Include relevant screenshots of the app to showcase its appearance and functionalities. Visuals can help users understand the app's design and layout.
+
+## Evaluation Criteria:
 
 The project will be evaluated based on the following criteria:
-- Completion: The project will be assessed based on how well it meets the requirements.
-- Quality: The project will be evaluated based on its quality, including coding style, organization, and ease of maintenance.
-- Use of programming concepts such as class, abstract, function, and others.
+
+- **Completion**: The extent to which the project meets all the minimum requirements, including the extra credit ideas if implemented.
+
+- **Quality**: The overall quality of the project, including the coding style, organization, and ease of maintenance. Well-structured and readable code will be favorably evaluated.
+
+- **Use of Programming Concepts**: How well you utilize programming concepts such as classes, abstracts, functions, and other relevant techniques.
 
 ## Resources
 
