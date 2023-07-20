@@ -44,7 +44,6 @@ The project must be written entirely in the Dart language and fully submitted th
 ## Ideas for Extra Credit:
 
 - **Display all Book Categories**: Provide a method to display a list of all book categories in the library. When a category is selected, return a list of all books belonging to that category.
-- **Count the Number of Purchased Books**: Implement a method to count the number of all purchased books from the library.
 - **Reporting:** Provide a method to present a report that contains the number of all purchased books from the library, and calculate their amount.
 - 
 
