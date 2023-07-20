@@ -61,6 +61,11 @@ The project must be written entirely in the Dart language and fully submitted th
 
 - **Screenshots**: Include relevant screenshots of the app to showcase its appearance and functionalities. Visuals can help users understand the app's design and layout.
 
+## Schedule & Deadlines:
+
+- Exam Start Date: 26/7/2023 - 3:00 PM
+- Exam Submission Deadline: 30/7/2023 – 9:59 AM
+
 ## Evaluation Criteria:
 
 The project will be evaluated based on the following criteria:
