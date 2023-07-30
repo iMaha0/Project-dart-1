@@ -45,7 +45,7 @@ The project must be written entirely in the Dart language and fully submitted th
 
 - **Display all Book Categories**: Provide a method to display a list of all book categories in the library. When a category is selected, return a list of all books belonging to that category.
 - **Reporting:** Provide a method to present a report that contains the number of all purchased books from the library, and calculate their amount.
-- 
+  
 
 ## Delivery Requirements:
 
