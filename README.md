@@ -1,3 +1,4 @@
+
 # The "Library Project using Dart"
 
 ## is an exciting software application design to efficiently \n manage a library's book inventory and steamline user interaction through a (CLI)
@@ -10,3 +11,4 @@ In this project, the user
 *   They can make a purchase from the library and view the purchase invoice.
 
 ![screenshot](https://www3.0zz0.com/2023/07/30/20/439472783.png)
+
